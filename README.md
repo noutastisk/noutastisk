@@ -1,4 +1,4 @@
-- idk how to use this...
+- hai
 
 <!---
 noutastisk/noutastisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
